@@ -115,3 +115,7 @@ Exemplo de Funcionamento
 4. Cliente Envia Comandos:
 
    - O usuário pode digitar 1 para ligar/desligar o ar-condicionado ou 2 para o umidificador.
+   - 
+   Link para documentação:
+
+https://hackmd.io/@9hRrKkrcTwuWoSV-mbHrDQ/S10CNiPF1x
